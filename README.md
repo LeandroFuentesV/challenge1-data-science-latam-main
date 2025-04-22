@@ -12,10 +12,10 @@ El objetivo de este análisis es ayudar al Sr. Juan a tomar una decisión inform
 ### 1. **Ingresos Totales de las Tiendas**
 Se calculó el **ingreso total** de cada tienda sumando las ventas de cada transacción, considerando el precio y el costo de envío de los productos. Los ingresos totales de cada tienda son los siguientes:
 
-- **Tienda 1**: $1,212,258,000
-- **Tienda 2**: $1,175,829,000
-- **Tienda 3**: $1,156,536,000
-- **Tienda 4**: $1,093,696,000
+- **Tienda 1**: $1.212.258.000
+- **Tienda 2**: $1.175.829.000
+- **Tienda 3**: $1.156.536.000
+- **Tienda 4**: $1.093.696.000
 
 **Conclusión**: La tienda con mayores ingresos es **Tienda 1**, mientras que la tienda con menores ingresos es **Tienda 4**, lo que sugiere que **Tienda 4** tiene el rendimiento más bajo en términos de ingresos.
 
@@ -61,10 +61,10 @@ Los productos más vendidos y menos vendidos en cada tienda fueron los siguiente
 ### 5. **Costo Promedio de Envío**
 Se calculó el **costo promedio de envío** para cada tienda:
 
-- **Tienda 1**: $26,018.61
-- **Tienda 2**: $25,216.24
-- **Tienda 3**: $24,805.68
-- **Tienda 4**: $23,459.46
+- **Tienda 1**: $26.018,61
+- **Tienda 2**: $25.216,24
+- **Tienda 3**: $24.805,68
+- **Tienda 4**: $23.459,46
 
 **Conclusión**: **Tienda 4** tiene el costo de envío más bajo, lo que podría ser ventajoso para los clientes en términos de costos adicionales.
 
